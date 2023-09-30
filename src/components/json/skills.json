@@ -1,0 +1,34 @@
+[
+    {
+        "images" : "images11.jpg",
+        "ptext" : "javascript"
+    },
+    {
+        "images" : "images12.png",
+        "ptext" : "react"
+    },
+    {
+        "images" : "images13.png",
+        "ptext" : "node js"
+    },
+    {
+        "images" : "images14.png",
+        "ptext" : "express"
+    },
+    {
+        "images" : "images15.png",
+        "ptext" : "figma"
+    },
+    {
+        "images" : "images16.jpg",
+        "ptext" : "github"
+    },
+    {
+        "images" : "images18 (2).png",
+        "ptext" : "html"
+    },
+    {
+        "images" : "images18 (1).png",
+        "ptext" : "css"
+    }
+]
